@@ -1,0 +1,82 @@
+.Rectangle-10 {
+    width: 1152px;
+    height: 384px;
+    background-color: #efefef;
+    display: flex;
+    padding: 97px 144px 0 81px;
+
+  }
+
+  .Vector-3 {
+    min-width: 174px;
+    height: 174px;
+    border: solid 1px #000000;
+    margin-right: 89px;
+  }
+
+  .restaurant-card {
+
+    &__description {
+        line-height: 1.5;
+    }
+
+    &-info__container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__button-container {
+        justify-content: end;
+    }
+
+  }
+
+  .Rectangle-14 {
+    width: 262px;
+    height: 56px;
+    background-color: #c2c2c2;
+    margin-right: 153px;
+  }
+
+  .Rectangle-15 {
+    width: 248px;
+    height: 54px;
+    background-color: #929292;
+  }
+
+  .menu {
+    width: 103px;
+    height: 55px;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1f1f1f;
+  }
+
+  .Book {
+    width: 92px;
+    height: 55px;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+
+  .Longtime-eatery-offering-upscale-Italian-dishes-h {
+    width: 664px;
+    height: 168px;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    margin-bottom: 33px;
+  }
