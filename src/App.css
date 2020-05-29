@@ -6,8 +6,9 @@
 .Rectangle-1 {
     width: 209px;
     height: 48px;
-    border: solid 2px #000000;
+    border: solid 2px white;
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
   }

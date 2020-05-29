@@ -2,20 +2,19 @@
     height: 238px;
     display: flex;
     align-items: center;
-    background-color: grey;
+    background-color: #3a3838;
 }
 
 .robson {
     width: 251px;
     height: 75px;
-    font-family: Roboto;
     font-size: 64px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: #000000;
+    color: white;
     margin-right: 33px;
     margin-left: 98px;
   }
@@ -28,12 +27,11 @@
 }
 
 .search {
-    font-family: Avenir-Regular;
     font-size: 0.813rem;
     line-height: 1.125rem;
     font-weight: bold;
     border: 1px solid #e1e1e1;
-    border-radius: 0.15rem;
+    border-radius: 1rem;
     background-image: url('../../assets/images/icon-search.svg');
     background-repeat: no-repeat;
     background-position: 7%;
