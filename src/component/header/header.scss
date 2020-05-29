@@ -1,0 +1,44 @@
+.header {
+    height: 238px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.robson {
+    width: 251px;
+    height: 75px;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    margin-right: 33px;
+    margin-left: 98px;
+  }
+
+.Rectangle-7 {
+  width: 328px;
+  height: 48px;
+  border-radius: 13px;
+  background-color: #ffffff;
+}
+
+.search {
+    font-family: Avenir-Regular;
+    font-size: 0.813rem;
+    line-height: 1.125rem;
+    font-weight: bold;
+    border: 1px solid #e1e1e1;
+    border-radius: 0.15rem;
+    background-image: url(/static/media/icon-search.28606900.svg);
+    background-repeat: no-repeat;
+    background-position: 7%;
+    background-color: #fafafa;
+    padding: 1rem;
+    padding-left: 3rem;
+    margin-left: 427px;
+}
