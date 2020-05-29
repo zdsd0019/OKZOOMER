@@ -10,7 +10,7 @@ class header extends Component {
                 <span className='Rectangle-1'>
                 <h2>DINE SAFE</h2>
                 </span>
-                <input type='text' name='search' className='search' placeholder='Search'/> '
+                <input type='text' name='search' className='search Rectangle-7' placeholder='City, Reasturants or Cusine'/>
             </header>
             </>
         );

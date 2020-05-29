@@ -2,7 +2,7 @@
     height: 238px;
     display: flex;
     align-items: center;
-    
+    background-color: grey;
 }
 
 .robson {
@@ -34,7 +34,7 @@
     font-weight: bold;
     border: 1px solid #e1e1e1;
     border-radius: 0.15rem;
-    background-image: url(/static/media/icon-search.28606900.svg);
+    background-image: url('../../assets/images/icon-search.svg');
     background-repeat: no-repeat;
     background-position: 7%;
     background-color: #fafafa;
